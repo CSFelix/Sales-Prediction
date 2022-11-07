@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Housing Price Competition 🌟</h1>
+<h1 align="center">🌟 Sales Prediction 🌟</h1>
 
 ----
 <br>

@@ -7,6 +7,8 @@
 
 **Given a couple of features, try to predict the Products' Number of Sales!!**
 
+**Dataset: [US Stores Sales](https://www.kaggle.com/datasets/dsfelix/us-stores-sales)**
+
 ----
 <br>
 
